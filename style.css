@@ -1,0 +1,13 @@
+
+body{
+  background-color: rgb(185, 199, 206);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    
+}
